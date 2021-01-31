@@ -9,6 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+My academic research interests include:
+
+Labor Economics
+Political Economy
+Applied Microeconomics
+
+
 Education
 ======
 * B.S. in Internatinal Political Economy, Georgetown University, 2018.08-2021.12(expected)
