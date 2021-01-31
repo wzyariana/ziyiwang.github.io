@@ -2,7 +2,9 @@ Hi! Welcome to my page.
 
 Education
 ======
-B.S. in International Political Economy, Georgetown University, 2021.12 (expected)
+-
+-B.S. in International Political Economy, Georgetown University, 2021.12 (expected)
+-
 -Minor: Mathematics
 -Relevant Coursework: Intermediate Microeconomics, Intermediate Macroeconomics, Econometrics, Game Theory, Analysis I, Analysis II, Labor Economics, Economic Statistics, Quantitative Research Lab, International Political Economy, International Trade, International Finance, Regression Analysis, Multivariate Calculus, Linear Algebra.
 
