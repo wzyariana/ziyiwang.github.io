@@ -11,8 +11,8 @@ title                    : "Ziyi Wang"
 title_separator          : "-"
 name                     : &name "Ziyi Wang"
 description              : &description "Student at Georgetown University School of Foreign Service"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      : #https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : #"" # the subpath of your site, e.g. "/blog"
 repository               : "wzyariana/ziyiwang.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
@@ -40,7 +40,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "md5"
+    email                : "zw159@georgetown.edu"
   generatedFields:
     date:
       type               : "date"
@@ -83,7 +83,7 @@ author:
   name             : "Ziyi Wang"
   avatar           : "profile.png"
   bio              : "Student at Georgetown University School of Foreign Service"
-  location         : "Location"
+  location         : "Washington, D.C."
   employer         :
   pubmed           :
   googlescholar    : 
