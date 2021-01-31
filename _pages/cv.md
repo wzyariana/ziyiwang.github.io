@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "About"
+permalink: /about/
 author_profile: true
 redirect_from:
   - /resume
@@ -11,49 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Internatinal Political Economy, Georgetown University, 2018.08-2021.12(expected)
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Quantitative Research Lab | Washington, DC	                           January 2020-May 2020
+  *Independent Researcher
+  *Selected by Dr. Shareen Joshi as one of 11 students for Quantitative Research Lab to conduct independent research.
+  *Conducted data cleaning on 3422 households data (IZA-RUMiC), performed OLS regressions, and analyzed the impact of social networks on rural-urban migrants’ employment outcomes and the gendered difference in China.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
+* Center for Security and Emerging Technology | Washington, DC	                         February 2019-May 2020
+  *Research Assistant
+  *Conducted information gathering, dataset identification, manual name disambiguation, career history tracking, and data analysis tasks in a mix of Chinese and English languages. 
+  *Created and maintained a comprehensive, high-quality databases of 5000+ entities active in Artificial Intelligence (AI) and related areas around the world.
+  *Researched on the AI megaprojects, Chinese government guidance funds, and the venture capital industry in China, summarized scholarly literature on Artificial Intelligence, and produced written reports on AI talents flow.
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Language: English(Native), Chinese (Native), French (Advanced).
+* Technical: Proficiency in Stata, R, LaTeX, Java, MATLAB, Python, MS Office, and Adobe Photoshop.
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
